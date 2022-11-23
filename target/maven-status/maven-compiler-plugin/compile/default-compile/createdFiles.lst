@@ -1,0 +1,4 @@
+io/github/tiagorgt/vertx/api/entity/Contact.class
+io/github/tiagorgt/vertx/api/Verticle.class
+io/github/tiagorgt/vertx/api/repository/ContactDao.class
+io/github/tiagorgt/vertx/api/service/ContactService.class
